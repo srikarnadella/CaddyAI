@@ -1,0 +1,21 @@
+body {
+  background-color: #111; /* Darker grey color */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+.header {
+  background-color: #222; /* Darker grey color for the header */
+  color: white; /* White text color */
+  padding: 20px;
+}
+
+.title {
+  margin: 0; /* Remove margin */
+}
+
+.container {
+  padding: 20px;
+}
+
+/* Add more styles as needed */
